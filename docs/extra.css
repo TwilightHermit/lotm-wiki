@@ -128,3 +128,54 @@ body,
     break-before: page;
   }
 }
+
+/* Click-to-reveal spoilers */
+.spoiler {
+  margin: 0.8rem 0;
+}
+
+.spoiler-title {
+  font-weight: 700;
+  color: #58180d;
+  margin-bottom: 0.2rem;
+}
+
+.spoiler-hint {
+  font-size: 0.7rem;
+  font-style: italic;
+  color: #6b5a3c;
+  margin-bottom: 0.3rem;
+}
+
+.spoiler-body {
+  position: relative;
+  cursor: pointer;
+  padding: 0.5rem 0.8rem;
+  border: 1px solid #c9a96a;
+  border-radius: 4px;
+  background-color: #f7e7c6;
+}
+
+.spoiler-body::after {
+  content: "Click to reveal";
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2b1d12;
+  color: #fdf1dc;
+  font-style: italic;
+  border-radius: 4px;
+  opacity: 1;
+  transition: opacity 0.8s ease;
+}
+
+.spoiler-body.revealed {
+  cursor: default;
+}
+
+.spoiler-body.revealed::after {
+  opacity: 0;
+  pointer-events: none;
+}
