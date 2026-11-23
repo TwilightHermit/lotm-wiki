@@ -9,3 +9,4 @@ extra_css:
   - extra.css
 nav:
   - Home: index.md
+  - Backgrounds: backgrounds.md
