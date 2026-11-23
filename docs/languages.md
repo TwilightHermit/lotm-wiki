@@ -15,4 +15,4 @@
 
 ### Mystical Languages
 
-[God Almighty Unknown Language](languages/God Almighty Unknown Language.md)
+[God Almighty Unknown Language](languages/GodAlmightyUnknownLanguage.md)
