@@ -5,10 +5,6 @@ theme:
   font:
     text: Crimson Text
     code: Roboto Mono
-  palette:
-    scheme: default
-    primary: custom
-    accent: custom
 extra_css:
   - stylesheets/extra.css
 nav:
