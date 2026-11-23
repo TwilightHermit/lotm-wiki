@@ -5,5 +5,6 @@ This is a NON-PROFIT passion project intended for having a great time with fello
 
 ! This website contains SPOILERS for the novel !
 
-|please don't come for me Wizards of the coast (╯˘ -˘ )╯ (  = _ =)ㅅ )|
+please don't come for me Wizards of the coast (╯˘ -˘ )╯ (  = _ =)ㅅ )
+
 
