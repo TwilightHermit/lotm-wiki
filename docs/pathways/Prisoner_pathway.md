@@ -8,20 +8,20 @@
 
 ## Sequences
 
-| Sequence | Title | Digestion Points | Summary |
+| Sequence | Title | Digestion Points | Requires ritual |
 |---|---|---|---|
-| 9 | | 4 | |
-| 8 | | 4 | |
-| 7 | | 4 | |
-| 6 | | 4 | |
-| 5 | | 4 | |
+| 9 | Prisoner | 4 | |
+| 8 | Lunatic  | 4 | |
+| 7 | Werewolf | 4 | |
+| 6 | Zombie | 4 | |
+| 5 | Wraith | 4 | |
 | 4 | | 4 | |
 | 3 | | 4 | |
 | 2 | | 4 | |
-| 1 | | 4 | |
-| 0 | | 4 | |
+| 1 | | 4 | ✘ |
+| 0 | | 4 | ✘ |
 
-## Sequence 9: Title
+## Sequence 9: Prisoner
 
 **Abilities:**
 
