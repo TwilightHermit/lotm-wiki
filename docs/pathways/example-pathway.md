@@ -27,13 +27,21 @@
 
 - Ability name: what it does, how it is used, and any limits.
 
-??? note "Acting Method: open this once you have discovered it in your campaign, or if your DM allows it"
+<div class="spoiler" markdown>
+<div class="spoiler-title">Acting Method</div>
+<div class="spoiler-hint">Click this once you have discovered it in your campaign, or if your DM allows it.</div>
+<div class="spoiler-body" markdown>
+Write the acting method here.
+</div>
+</div>
 
-    Write the acting method here.
-
-??? note "Potion Ingredients: open this once you have discovered them in your campaign, or if your DM allows it"
-
-    Write the ingredients here.
+<div class="spoiler" markdown>
+<div class="spoiler-title">Potion Ingredients</div>
+<div class="spoiler-hint">Click this once you have discovered them in your campaign, or if your DM allows it.</div>
+<div class="spoiler-body" markdown>
+Write the ingredients here.
+</div>
+</div>
 
 ## Sequence 8: Title
 
@@ -41,10 +49,18 @@
 
 - Ability name: what it does, how it is used, and any limits.
 
-??? note "Acting Method: open this once you have discovered it in your campaign, or if your DM allows it"
+<div class="spoiler" markdown>
+<div class="spoiler-title">Acting Method</div>
+<div class="spoiler-hint">Click this once you have discovered it in your campaign, or if your DM allows it.</div>
+<div class="spoiler-body" markdown>
+Write the acting method here.
+</div>
+</div>
 
-    Write the acting method here.
-
-??? note "Potion Ingredients: open this once you have discovered them in your campaign, or if your DM allows it"
-
-    Write the ingredients here.
+<div class="spoiler" markdown>
+<div class="spoiler-title">Potion Ingredients</div>
+<div class="spoiler-hint">Click this once you have discovered them in your campaign, or if your DM allows it.</div>
+<div class="spoiler-body" markdown>
+Write the ingredients here.
+</div>
+</div>
