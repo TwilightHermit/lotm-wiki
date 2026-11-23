@@ -6,6 +6,6 @@ theme:
     text: Crimson Text
     code: Roboto Mono
 extra_css:
-  - stylesheets/extra.css
+  - extra.css
 nav:
   - Home: index.md
