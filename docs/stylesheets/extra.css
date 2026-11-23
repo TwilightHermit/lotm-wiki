@@ -1,0 +1,51 @@
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #58180d;
+  --md-primary-fg-color--light: #7a2a1a;
+  --md-primary-fg-color--dark: #3d0f08;
+  --md-accent-fg-color: #9c2b17;
+  --md-default-bg-color: #fdf1dc;
+  --md-default-fg-color: #2b1d12;
+  --md-typeset-color: #2b1d12;
+  --md-typeset-a-color: #8a1c0c;
+}
+
+body,
+.md-container,
+.md-main,
+.md-content {
+  background-color: #fdf1dc !important;
+}
+
+.md-header,
+.md-tabs {
+  background-color: #58180d !important;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-family: 'Crimson Text', Georgia, serif;
+  color: #58180d !important;
+  font-weight: 700;
+}
+
+.md-typeset h2 {
+  border-bottom: 2px solid #c9a96a;
+  padding-bottom: 0.2rem;
+}
+
+.md-typeset table:not([class]) {
+  background-color: #f7e7c6;
+  border: 1px solid #c9a96a;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: #58180d;
+  color: #fdf1dc;
+}
+
+.md-typeset blockquote {
+  background-color: #f7e7c6;
+  border-left: 4px solid #58180d;
+  padding: 0.5rem 1rem;
+}
