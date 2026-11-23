@@ -9,3 +9,5 @@ A Pathway is a path of ten Sequences, from Sequence 9 up to Sequence 0. Choose a
 [Seer Pathway](pathways/Seer_pathway.md)
 
 [Monster Pathway](pathways/Monster_pathway.md)
+
+[Abyss Pathway](pathway/Abyss_pathway.md)
