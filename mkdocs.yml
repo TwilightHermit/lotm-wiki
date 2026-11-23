@@ -12,6 +12,7 @@ nav:
   - Backgrounds: backgrounds.md
   - Character Sheet: character-sheet.md
   - Pathways: pathways.md
+  - Languages: languages.md
 markdown_extensions:
   - md_in_html
   - tables
@@ -20,3 +21,4 @@ markdown_extensions:
   - pymdownx.superfences
 extra_javascript:
   - spoiler.js
+
