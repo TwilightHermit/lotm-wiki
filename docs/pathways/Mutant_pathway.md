@@ -2,11 +2,11 @@
 
 *One or two lines of flavor about this Pathway.*
 
-**officially obtained:** Rose School of Thought
+**Officially obtained:** Rose School of Thought
 
 ## Sequences
 
-| Sequence | Title | Digestion Points | Requires ritual |
+| Sequence | Name | Digestion Points | Requires ritual |
 |---|---|---|---|
 | 9 | Prisoner | 2 | |
 | 8 | Lunatic  | 2 | |
