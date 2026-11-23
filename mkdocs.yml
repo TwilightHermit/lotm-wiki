@@ -18,3 +18,5 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+extra_javascript:
+  - spoiler.js
