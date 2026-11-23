@@ -5,7 +5,7 @@
 
 [Loenese](languages/Loenese.md)
 
-[Intisan](languages/Intisan.md)
+[Intisian](languages/Intisian.md)
 
 [Feysac](languages/Feysac.md)
 
