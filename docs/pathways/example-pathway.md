@@ -6,8 +6,6 @@
 
 **Domain:** 
 
-**Acting Method Theme:** 
-
 ## Sequences
 
 | Sequence | Title | Digestion Points | Summary |
@@ -25,20 +23,28 @@
 
 ## Sequence 9: Title
 
-**Acting Method:** 
-
 **Abilities:**
 
 - Ability name: what it does, how it is used, and any limits.
 
-**Potion Ingredients:** 
+??? note "Acting Method: open this once you have discovered it in your campaign, or if your DM allows it"
+
+    Write the acting method here.
+
+??? note "Potion Ingredients: open this once you have discovered them in your campaign, or if your DM allows it"
+
+    Write the ingredients here.
 
 ## Sequence 8: Title
 
-**Acting Method:** 
-
 **Abilities:**
 
 - Ability name: what it does, how it is used, and any limits.
 
-**Potion Ingredients:** 
+??? note "Acting Method: open this once you have discovered it in your campaign, or if your DM allows it"
+
+    Write the acting method here.
+
+??? note "Potion Ingredients: open this once you have discovered them in your campaign, or if your DM allows it"
+
+    Write the ingredients here.
