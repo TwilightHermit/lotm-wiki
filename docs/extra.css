@@ -49,3 +49,82 @@ body,
   border-left: 4px solid #58180d;
   padding: 0.5rem 1rem;
 }
+
+/* Character sheet layout */
+.sheet-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.6rem;
+}
+
+.sheet-box {
+  border: 2px solid #58180d;
+  border-radius: 4px;
+  padding: 0.4rem 0.6rem;
+  background-color: #f7e7c6;
+  break-inside: avoid;
+}
+
+.sheet-box h3 {
+  margin: 0 0 0.3rem 0;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.sheet-wide {
+  grid-column: 1 / -1;
+}
+
+.sheet-line {
+  border-bottom: 1px solid #8a6d3b;
+  min-height: 1.4rem;
+}
+
+.sheet-tall {
+  min-height: 6rem;
+}
+
+@page {
+  size: A4;
+  margin: 10mm;
+}
+
+@media print {
+  .md-header,
+  .md-tabs,
+  .md-sidebar,
+  .md-footer,
+  .md-source-file,
+  .md-content__button {
+    display: none !important;
+  }
+
+  .md-main__inner {
+    margin: 0 !important;
+  }
+
+  .md-content {
+    max-width: 100% !important;
+    margin: 0 !important;
+  }
+
+  body,
+  .md-container,
+  .md-main,
+  .md-content {
+    background-color: #ffffff !important;
+  }
+
+  .sheet-box {
+    background-color: #ffffff;
+  }
+
+  .md-typeset {
+    font-size: 0.7rem;
+  }
+
+  .sheet-page-break {
+    break-before: page;
+  }
+}
