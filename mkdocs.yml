@@ -1,0 +1,15 @@
+site_name: Lord of Mysteries 5e
+site_description: A homebrew Pathways supplement for D&D 5e
+theme:
+  name: material
+  font:
+    text: Crimson Text
+    code: Roboto Mono
+  palette:
+    scheme: default
+    primary: custom
+    accent: custom
+extra_css:
+  - stylesheets/extra.css
+nav:
+  - Home: index.md
