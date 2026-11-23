@@ -1,28 +1,31 @@
-:root > * {
+[data-md-color-scheme="default"] {
   --md-primary-fg-color: #58180d;
   --md-primary-fg-color--light: #7a2a1a;
   --md-primary-fg-color--dark: #3d0f08;
   --md-accent-fg-color: #9c2b17;
   --md-default-bg-color: #fdf1dc;
   --md-default-fg-color: #2b1d12;
+  --md-typeset-color: #2b1d12;
   --md-typeset-a-color: #8a1c0c;
 }
 
-body, .md-main {
-  background-color: #fdf1dc;
-  background-image: linear-gradient(#fdf1dc, #f4e3c1);
+body,
+.md-container,
+.md-main,
+.md-content {
+  background-color: #fdf1dc !important;
 }
 
-.md-typeset {
-  font-size: 0.85rem;
-  line-height: 1.6;
+.md-header,
+.md-tabs {
+  background-color: #58180d !important;
 }
 
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3 {
   font-family: 'Crimson Text', Georgia, serif;
-  color: #58180d;
+  color: #58180d !important;
   font-weight: 700;
 }
 
