@@ -11,6 +11,6 @@ nav:
   - Home: index.md
   - Backgrounds: backgrounds.md
   - Character Sheet: character-sheet.md
-  markdown_extensions:
+markdown_extensions:
   - md_in_html
   - tables
